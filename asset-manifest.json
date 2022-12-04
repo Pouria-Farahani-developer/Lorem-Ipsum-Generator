@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LoremIpsumGenerator/static/css/main.f2d5eab7.css",
+    "main.js": "/LoremIpsumGenerator/static/js/main.38a61310.js",
+    "index.html": "/LoremIpsumGenerator/index.html",
+    "main.f2d5eab7.css.map": "/LoremIpsumGenerator/static/css/main.f2d5eab7.css.map",
+    "main.38a61310.js.map": "/LoremIpsumGenerator/static/js/main.38a61310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d5eab7.css",
+    "static/js/main.38a61310.js"
+  ]
+}
