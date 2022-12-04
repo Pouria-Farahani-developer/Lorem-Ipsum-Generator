@@ -74,3 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# LoremIpsumGenerator" 
 "# LoremIpsumGenerator" 
 "# Lorem-Ipsum-Generator" 
+"# lorem-Ipsum-Generator" 
