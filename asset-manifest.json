@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/LoremIpsumGenerator/static/css/main.f2d5eab7.css",
-    "main.js": "/LoremIpsumGenerator/static/js/main.38a61310.js",
-    "index.html": "/LoremIpsumGenerator/index.html",
-    "main.f2d5eab7.css.map": "/LoremIpsumGenerator/static/css/main.f2d5eab7.css.map",
-    "main.38a61310.js.map": "/LoremIpsumGenerator/static/js/main.38a61310.js.map"
+    "main.css": "/lorem-Ipsum-Generator/static/css/main.f2d5eab7.css",
+    "main.js": "/lorem-Ipsum-Generator/static/js/main.38a61310.js",
+    "index.html": "/lorem-Ipsum-Generator/index.html",
+    "main.f2d5eab7.css.map": "/lorem-Ipsum-Generator/static/css/main.f2d5eab7.css.map",
+    "main.38a61310.js.map": "/lorem-Ipsum-Generator/static/js/main.38a61310.js.map"
   },
   "entrypoints": [
     "static/css/main.f2d5eab7.css",
