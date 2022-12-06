@@ -1,3 +1,25 @@
+# lorem-Ipsum-Generator
+
+🔑 **From now on, enter your password as soon as possible and enter your admin panel**
+
+![back1](https://user-images.githubusercontent.com/109727844/204108398-37fe1ac4-b0f5-41e6-bc2c-224f1982f6cc.jpg)
+
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Show-and-hide-password-by-react/)
+
+- 👨‍💻 Developed by pouria farahani
+
+- 📆 Created - 2022-11-26
+
+- 🤖 Technologies Used - Html , css , js , React.js
+
+- 🕵🏻‍♀️ Role - Frontend
+
+- 📫 How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+
+## more details
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
