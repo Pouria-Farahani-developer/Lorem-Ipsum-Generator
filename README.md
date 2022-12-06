@@ -4,7 +4,7 @@
 
 ![back1](https://user-images.githubusercontent.com/109727844/204108398-37fe1ac4-b0f5-41e6-bc2c-224f1982f6cc.jpg)
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Show-and-hide-password-by-react/)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/lorem-Ipsum-Generator/)
 
 - 👨‍💻 Developed by pouria farahani
 
