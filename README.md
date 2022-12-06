@@ -14,6 +14,8 @@
 
 - 🤖 Technologies Used - Html , css , js , React.js
 
+- 🚧 Hooks Used : useState 
+
 - 🕵🏻‍♀️ Role - Frontend
 
 - 📫 How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
