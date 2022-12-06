@@ -1,6 +1,6 @@
 # lorem-Ipsum-Generator
 
-🔑 **From now on, enter your password as soon as possible and enter your admin panel**
+🔑 **Generate your random texts in the fastest way!**
 
 ![lorem](https://user-images.githubusercontent.com/109727844/206012547-9d1c18ab-0b49-425b-b7a8-079f401c942e.jpg)
 
