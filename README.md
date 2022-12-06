@@ -1,6 +1,6 @@
 # lorem-Ipsum-Generator
 
-🔑 **Generate your random texts in the fastest way!**
+☑ **Generate your random texts in the fastest way!**
 
 ![lorem](https://user-images.githubusercontent.com/109727844/206012547-9d1c18ab-0b49-425b-b7a8-079f401c942e.jpg)
 
