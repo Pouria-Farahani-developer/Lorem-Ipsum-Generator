@@ -2,7 +2,7 @@
 
 🔑 **From now on, enter your password as soon as possible and enter your admin panel**
 
-![back1](https://user-images.githubusercontent.com/109727844/204108398-37fe1ac4-b0f5-41e6-bc2c-224f1982f6cc.jpg)
+![lorem](https://user-images.githubusercontent.com/109727844/206012547-9d1c18ab-0b49-425b-b7a8-079f401c942e.jpg)
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/lorem-Ipsum-Generator/)
 
